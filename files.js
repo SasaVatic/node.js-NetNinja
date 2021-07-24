@@ -1,4 +1,3 @@
-const { F_OK } = require('constants');
 const fs = require('fs'); // filesystem module
 
 // reading files
